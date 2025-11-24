@@ -1,10 +1,9 @@
 streamlit
 pandas
 plotly
-yfinance
+ccxt
 requests
+yfinance
 lxml
 beautifulsoup4
 playwright
-requests
-ccxt
